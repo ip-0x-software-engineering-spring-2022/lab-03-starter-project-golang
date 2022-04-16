@@ -28,7 +28,7 @@ When you have the project built, you can run it by invoking the binary:
      completion  Generate the autocompletion script for the specified shell
      help        Help about any command
      query       Query if the number is fizz/buzz or fizzbuzz
-     serve       Run an http server to anser fizzbuzz queries
+     serve       Run an http server to answer fizzbuzz queries
 
    Flags:
      -h, --help   help for fizzbuzz
